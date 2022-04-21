@@ -1,1 +1,3 @@
-# Outdoor_Lighting_ESP8266_V4.0
+# Outdoor lighting With Blynk en OTA suport!!
+
+ESP8266
